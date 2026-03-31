@@ -11,9 +11,11 @@ Made in Fusion360.
 ## PCB
 
 Schematic
-<img src=assets/schematic.png width="300"/>
+
+<img src=assets/Schematic.png width="300"/>
 
 PCB
+
 <img src=assets/PCB.png width="300"/>
 
 ## BOM:
