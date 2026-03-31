@@ -12,7 +12,7 @@ Made in Fusion360.
 
 Schematic
 
-<img src=assets/Schematic.png width="300"/>
+<img src=assets/Schematic.png width="600"/>
 
 PCB
 
